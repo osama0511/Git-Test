@@ -1,0 +1,3 @@
+class mian {
+    sout("hi osamah");
+}
